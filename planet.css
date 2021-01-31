@@ -1,0 +1,12 @@
+th,td {
+	text-align: center;
+}
+
+th a {
+	cursor: pointer;
+	text-decoration: none !important;
+}
+
+.highlight {
+	background-color: #F8F8F8;
+}

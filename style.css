@@ -1,0 +1,16 @@
+.regular {
+    color: blue; 
+    border-radius: 1px;
+}
+
+.caution {
+    color: red; 
+    border-radius: 1px;
+}
+
+@media only screen and (max-width: 600px) {
+    .regular {
+        color: orange; 
+        border-radius: 1px;
+    }
+  }
